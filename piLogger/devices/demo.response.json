@@ -1,4 +1,4 @@
-{["transportskruv",
+["transportskruv",
 "transportskruv-stg3",
 "28.C6F9AD030000",
 "28.8B0AAE030000",
@@ -14,5 +14,4 @@
 "28.3B1A43050000",
 "stg3ov",
 "stg3bv",
-"dt_rad"]}
-
+"dt_rad"]
